@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_ecommerce/constant/constant.dart';
 
-AppBar AppBarHome() {
+AppBar appBarHome() {
   return AppBar(
     title: const Text("Anh Quan Shop"),
     backgroundColor: primaryColor,

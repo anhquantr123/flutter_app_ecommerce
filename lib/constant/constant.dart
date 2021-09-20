@@ -9,5 +9,6 @@ const textColorLightBlack = Color(0xFF363333);
 
 const textSizeHeading = 20.0;
 const textSizeBody = 16.0;
+const iconSize = 36.0;
 
 const textStyleBold = FontWeight.bold;
